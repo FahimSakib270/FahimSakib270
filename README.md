@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FahimSakib270
+- 👋 Hi, I’m FahimX
 - 👀 I’m interested in Js
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
