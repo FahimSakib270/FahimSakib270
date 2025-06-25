@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.ibb.co/XZrTgxPW/GIT.jpg"  width="300" alt="GitHub Banner" style="border-radius: 10px;" />
+      <img src="https://i.ibb.co/XZrTgxPW/GIT.jpg"  width="500" alt="GitHub Banner" style="border-radius: 10px;" />
     </td>
     <td valign="top" width="700">
       <p><strong>I’m currently working on:</strong> Building personal projects & exploring full-stack web development</p>
