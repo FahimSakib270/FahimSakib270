@@ -1,11 +1,16 @@
-## 🧑‍💻 About Me
+# 💫 Hi 👋, I'm Fahim Montasir Sakib  
+**A passionate Computer Science Student | Aspiring Web Developer 🧑‍💻 from Bangladesh, currently in Wuhan, China**
 
-Hi 👋, I'm **Fahim Sakib** — a passionate **Computer Science & Engineering** student at **HBUT, Wuhan, China**, originally from **Bangladesh**.
+Email Me 👉 ✉️ **sakibfahim270@gmail.com** For Collaboration/Project or Anything Else 😊
 
-I'm currently diving deep into **Web Development**, especially exploring the **MERN Stack** and building responsive, dynamic web applications using **React**, **Node.js**, and modern frontend tools.
-📚 I love open source, contributing to developer communities, and sharing my coding journey with others. Always excited to learn, collaborate, and build cool stuff on the web!
-
-📫 Feel free to reach out — whether it's about tech, projects, or just a friendly chat!
+- 🔭 **I’m currently working on:** Building personal projects & exploring full-stack web development  
+- 🌱 **I’m currently learning:** JavaScript, React, Node.js, Express, MongoDB – diving deep into the **MERN Stack**  
+- 👯 **I’m looking to collaborate on:** Beginner-friendly web apps, open-source contributions, and frontend/backend experiments  
+- 🤔 **I’m looking for help with:** Real-world project ideas, coding best practices, and community-driven tech learning  
+- 💬 **Ask me about:** Web Development, JavaScript, React, Open Source, or being a student developer in China 🇨🇳  
+- 📫 **How to reach me:** [sakibfahim270@gmail.com](mailto:sakibfahim270@gmail.com)  
+- 😄 **Pronouns:** Fahim  
+- ⚡ **Fun fact:** When I'm not coding, I'm probably sipping tea or debugging that one error I created myself 😂
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakibfahim270@gmail.com) 
 
