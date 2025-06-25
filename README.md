@@ -8,8 +8,6 @@ Email Me 👉 ✉️ **sakibfahim270@gmail.com** For Collaboration/Project or An
 - 👯 **I’m looking to collaborate on:** Beginner-friendly web apps, open-source contributions, and frontend/backend experiments  
 - 🤔 **I’m looking for help with:** Real-world project ideas, coding best practices, and community-driven tech learning  
 - 💬 **Ask me about:** Web Development, JavaScript, React, Open Source, or being a student developer in China 🇨🇳  
-- 📫 **How to reach me:** [sakibfahim270@gmail.com](mailto:sakibfahim270@gmail.com)  
-- 😄 **Pronouns:** Fahim  
 - ⚡ **Fun fact:** When I'm not coding, I'm probably sipping tea or debugging that one error I created myself 😂
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakibfahim270@gmail.com) 
