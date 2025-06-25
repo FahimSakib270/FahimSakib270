@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Fahim Montasir Sakib  
-## 🧑‍💻 Computer Science Student | Aspiring Web Developer 🇧🇩🇨🇳  
+## 🧑‍💻 Computer Science Student | Aspiring Web Developer 
 
 <table>
   <tr>
@@ -13,7 +13,7 @@
       <p><strong>Looking for help with:</strong> Real-world project ideas, coding best practices, and community-driven tech learning</p>
       <p><strong>Ask me about:</strong> Web Development, JavaScript, React, Open Source, or being a student developer in China 🇨🇳</p>
       <p><strong>Email Me:</strong> <a href="mailto:sakibfahim270@gmail.com">sakibfahim270@gmail.com</a></p>
-      <p>⚡ <em>When I'm not coding, I'm probably sipping tea or debugging that one error I created myself 😂</em></p>
+      <p>⚡ <em>When I'm not coding, I'm probably sipping tea or debugging that one error I created myself😂</em></p>
     </td>
   </tr>
 </table>
