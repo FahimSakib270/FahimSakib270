@@ -4,9 +4,9 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.ibb.co/XZrTgxPW/GIT.jpg"  width="600" alt="GitHub Banner" style="border-radius: 10px;" />
+      <img src="https://i.ibb.co/XZrTgxPW/GIT.jpg"  width="500" alt="GitHub Banner" style="border-radius: 10px;" />
     </td>
-    <td valign="top" width="400">
+    <td valign="top" width="500">
       <p><strong>I’m currently working on:</strong> Building personal projects & exploring full-stack web development</p>
       <p><strong>I’m learning:</strong> JavaScript, React, Node.js, Express, MongoDB – diving deep into the <strong>MERN Stack</strong></p>
       <p><strong>Open to collaborate on:</strong> Beginner-friendly web apps, open-source contributions, and frontend/backend experiments</p>
