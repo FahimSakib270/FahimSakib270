@@ -1,4 +1,11 @@
+## 🧑‍💻 About Me
 
+Hi 👋, I'm **Fahim Sakib** — a passionate **Computer Science & Engineering** student at **HBUT, Wuhan, China**, originally from **Bangladesh**.
+
+I'm currently diving deep into **Web Development**, especially exploring the **MERN Stack** and building responsive, dynamic web applications using **React**, **Node.js**, and modern frontend tools.
+📚 I love open source, contributing to developer communities, and sharing my coding journey with others. Always excited to learn, collaborate, and build cool stuff on the web!
+
+📫 Feel free to reach out — whether it's about tech, projects, or just a friendly chat!
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakibfahim270@gmail.com) 
 
