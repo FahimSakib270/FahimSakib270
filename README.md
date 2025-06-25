@@ -1,18 +1,24 @@
 # 💫 Hi 👋, I'm Fahim Montasir Sakib  
 ## 🧑‍💻 Computer Science Student | Aspiring Web Developer 🇧🇩🇨🇳  
 
-<div style="display: flex; align-items: center;">
-  <img src="https://i.ibb.co/XZrTgxPW/GIT.jpg"  alt="GitHub Banner" width="300" style="border-radius: 10px;"/>
-  <div style="margin-left: 25px;">
-    <p><strong>I’m currently working on:</strong> Building personal projects & exploring full-stack web development</p>
-    <p><strong>I’m learning:</strong> JavaScript, React, Node.js, Express, MongoDB – diving deep into the <strong>MERN Stack</strong></p>
-    <p><strong>Open to collaborate on:</strong> Beginner-friendly web apps, open-source contributions, and frontend/backend experiments</p>
-    <p><strong>Looking for help with:</strong> Real-world project ideas, coding best practices, and community-driven tech learning</p>
-    <p><strong>Ask me about:</strong> Web Development, JavaScript, React, Open Source, or being a student developer in China 🇨🇳</p>
-    <p><strong>Email Me:</strong> <a href="mailto:sakibfahim270@gmail.com">sakibfahim270@gmail.com</a></p>
-    <p>⚡ <em>When I'm not coding, I'm probably sipping tea or debugging that one error I created myself 😂</em></p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://i.ibb.co/XZrTgxPW/GIT.jpg"  width="300" alt="GitHub Banner" style="border-radius: 10px;" />
+    </td>
+    <td valign="top" width="700">
+      <p><strong>I’m currently working on:</strong> Building personal projects & exploring full-stack web development</p>
+      <p><strong>I’m learning:</strong> JavaScript, React, Node.js, Express, MongoDB – diving deep into the <strong>MERN Stack</strong></p>
+      <p><strong>Open to collaborate on:</strong> Beginner-friendly web apps, open-source contributions, and frontend/backend experiments</p>
+      <p><strong>Looking for help with:</strong> Real-world project ideas, coding best practices, and community-driven tech learning</p>
+      <p><strong>Ask me about:</strong> Web Development, JavaScript, React, Open Source, or being a student developer in China 🇨🇳</p>
+      <p><strong>Email Me:</strong> <a href="mailto:sakibfahim270@gmail.com">sakibfahim270@gmail.com</a></p>
+      <p>⚡ <em>When I'm not coding, I'm probably sipping tea or debugging that one error I created myself 😂</em></p>
+    </td>
+  </tr>
+</table>
+
+---
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakibfahim270@gmail.com) 
 
